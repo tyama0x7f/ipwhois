@@ -1,5 +1,5 @@
 # 使い方
-1. ip_to_whois.exeを同じディレクトリにinput.csvを置いてください。
+1. dist\ip_to_whois\ip_to_whois.exeを同じディレクトリにinput.csvを置いてください。
 2. ip_to_whois.exeを実行してください。1件あたり2秒程度かかります。
 3. すべての実行が完了したら、final_yyyymmddhhmmss.csvというファイルが生成されます。
 
